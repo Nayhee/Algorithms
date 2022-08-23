@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\obj\Debug\net5.0\FindMedianSortedArrays.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\obj\Debug\net5.0\FindMedianSortedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\obj\Debug\net5.0\FindMedianSortedArrays.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\obj\Debug\net5.0\FindMedianSortedArrays.AssemblyInfo.cs
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\obj\Debug\net5.0\FindMedianSortedArrays.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\bin\Debug\net5.0\FindMedianSortedArrays.exe
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\bin\Debug\net5.0\FindMedianSortedArrays.deps.json
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\bin\Debug\net5.0\FindMedianSortedArrays.runtimeconfig.json
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\bin\Debug\net5.0\FindMedianSortedArrays.runtimeconfig.dev.json
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\bin\Debug\net5.0\FindMedianSortedArrays.dll
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\bin\Debug\net5.0\ref\FindMedianSortedArrays.dll
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\bin\Debug\net5.0\FindMedianSortedArrays.pdb
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\obj\Debug\net5.0\FindMedianSortedArrays.dll
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\obj\Debug\net5.0\ref\FindMedianSortedArrays.dll
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\obj\Debug\net5.0\FindMedianSortedArrays.pdb
+C:\Users\natha\workspace\VS\Algorithms\FindMedianSortedArrays\obj\Debug\net5.0\FindMedianSortedArrays.genruntimeconfig.cache

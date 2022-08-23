@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\bin\Debug\net5.0\ClimbStairs.exe
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\bin\Debug\net5.0\ClimbStairs.deps.json
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\bin\Debug\net5.0\ClimbStairs.runtimeconfig.json
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\bin\Debug\net5.0\ClimbStairs.runtimeconfig.dev.json
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\bin\Debug\net5.0\ClimbStairs.dll
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\bin\Debug\net5.0\ref\ClimbStairs.dll
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\bin\Debug\net5.0\ClimbStairs.pdb
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\obj\Debug\net5.0\ClimbStairs.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\obj\Debug\net5.0\ClimbStairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\obj\Debug\net5.0\ClimbStairs.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\obj\Debug\net5.0\ClimbStairs.AssemblyInfo.cs
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\obj\Debug\net5.0\ClimbStairs.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\obj\Debug\net5.0\ClimbStairs.dll
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\obj\Debug\net5.0\ref\ClimbStairs.dll
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\obj\Debug\net5.0\ClimbStairs.pdb
+C:\Users\natha\workspace\VS\Algorithms\ClimbStairs\obj\Debug\net5.0\ClimbStairs.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Isomorphic/1.0.0": {
+        "runtime": {
+          "Isomorphic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Isomorphic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\bin\Debug\net5.0\PivotIndex.exe
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\bin\Debug\net5.0\PivotIndex.deps.json
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\bin\Debug\net5.0\PivotIndex.runtimeconfig.json
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\bin\Debug\net5.0\PivotIndex.runtimeconfig.dev.json
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\bin\Debug\net5.0\PivotIndex.dll
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\bin\Debug\net5.0\ref\PivotIndex.dll
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\bin\Debug\net5.0\PivotIndex.pdb
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\obj\Debug\net5.0\PivotIndex.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\obj\Debug\net5.0\PivotIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\obj\Debug\net5.0\PivotIndex.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\obj\Debug\net5.0\PivotIndex.AssemblyInfo.cs
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\obj\Debug\net5.0\PivotIndex.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\obj\Debug\net5.0\PivotIndex.dll
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\obj\Debug\net5.0\ref\PivotIndex.dll
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\obj\Debug\net5.0\PivotIndex.pdb
+C:\Users\natha\workspace\VS\Algorithms\PivotIndex\obj\Debug\net5.0\PivotIndex.genruntimeconfig.cache

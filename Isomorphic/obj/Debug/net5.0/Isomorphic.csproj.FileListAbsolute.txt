@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\bin\Debug\net5.0\Isomorphic.exe
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\bin\Debug\net5.0\Isomorphic.deps.json
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\bin\Debug\net5.0\Isomorphic.runtimeconfig.json
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\bin\Debug\net5.0\Isomorphic.runtimeconfig.dev.json
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\bin\Debug\net5.0\Isomorphic.dll
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\bin\Debug\net5.0\ref\Isomorphic.dll
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\bin\Debug\net5.0\Isomorphic.pdb
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\obj\Debug\net5.0\Isomorphic.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\obj\Debug\net5.0\Isomorphic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\obj\Debug\net5.0\Isomorphic.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\obj\Debug\net5.0\Isomorphic.AssemblyInfo.cs
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\obj\Debug\net5.0\Isomorphic.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\obj\Debug\net5.0\Isomorphic.dll
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\obj\Debug\net5.0\ref\Isomorphic.dll
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\obj\Debug\net5.0\Isomorphic.pdb
+C:\Users\natha\workspace\VS\Algorithms\Isomorphic\obj\Debug\net5.0\Isomorphic.genruntimeconfig.cache
