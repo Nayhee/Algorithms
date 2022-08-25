@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\Algorithms\BuySellStock\obj\Debug\net5.0\BuySellStock.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\Algorithms\BuySellStock\obj\Debug\net5.0\BuySellStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\Algorithms\BuySellStock\obj\Debug\net5.0\BuySellStock.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\Algorithms\BuySellStock\obj\Debug\net5.0\BuySellStock.AssemblyInfo.cs
+C:\Users\natha\workspace\Algorithms\BuySellStock\obj\Debug\net5.0\BuySellStock.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\Algorithms\BuySellStock\bin\Debug\net5.0\BuySellStock.exe
+C:\Users\natha\workspace\Algorithms\BuySellStock\bin\Debug\net5.0\BuySellStock.deps.json
+C:\Users\natha\workspace\Algorithms\BuySellStock\bin\Debug\net5.0\BuySellStock.runtimeconfig.json
+C:\Users\natha\workspace\Algorithms\BuySellStock\bin\Debug\net5.0\BuySellStock.runtimeconfig.dev.json
+C:\Users\natha\workspace\Algorithms\BuySellStock\bin\Debug\net5.0\BuySellStock.dll
+C:\Users\natha\workspace\Algorithms\BuySellStock\bin\Debug\net5.0\ref\BuySellStock.dll
+C:\Users\natha\workspace\Algorithms\BuySellStock\bin\Debug\net5.0\BuySellStock.pdb
+C:\Users\natha\workspace\Algorithms\BuySellStock\obj\Debug\net5.0\BuySellStock.dll
+C:\Users\natha\workspace\Algorithms\BuySellStock\obj\Debug\net5.0\ref\BuySellStock.dll
+C:\Users\natha\workspace\Algorithms\BuySellStock\obj\Debug\net5.0\BuySellStock.pdb
+C:\Users\natha\workspace\Algorithms\BuySellStock\obj\Debug\net5.0\BuySellStock.genruntimeconfig.cache
