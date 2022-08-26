@@ -8,15 +8,15 @@ namespace ClimbStairs
         {
             int ClimbStairs(int n)
             {
-                int first = 1;
+                int first = 1; 
                 int second = 2;
                 int temp = 0;
 
                 for (int i = 3; i <= n; i++)
                 {
                     temp = second;
-                    second += first;
-                    first = temp;
+                    second += first; //add first to second
+                    first = temp; //first becomes second.
                 }
                 return second;
             }
