@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\obj\Debug\net5.0\BinaryTreeTraversal.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\obj\Debug\net5.0\BinaryTreeTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\obj\Debug\net5.0\BinaryTreeTraversal.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\obj\Debug\net5.0\BinaryTreeTraversal.AssemblyInfo.cs
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\obj\Debug\net5.0\BinaryTreeTraversal.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\bin\Debug\net5.0\BinaryTreeTraversal.exe
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\bin\Debug\net5.0\BinaryTreeTraversal.deps.json
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\bin\Debug\net5.0\BinaryTreeTraversal.runtimeconfig.json
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\bin\Debug\net5.0\BinaryTreeTraversal.runtimeconfig.dev.json
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\bin\Debug\net5.0\BinaryTreeTraversal.dll
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\bin\Debug\net5.0\ref\BinaryTreeTraversal.dll
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\bin\Debug\net5.0\BinaryTreeTraversal.pdb
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\obj\Debug\net5.0\BinaryTreeTraversal.dll
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\obj\Debug\net5.0\ref\BinaryTreeTraversal.dll
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\obj\Debug\net5.0\BinaryTreeTraversal.pdb
+C:\Users\natha\workspace\Algorithms\BinaryTreeTraversal\obj\Debug\net5.0\BinaryTreeTraversal.genruntimeconfig.cache
