@@ -5,7 +5,7 @@ namespace ClimbStairs
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
             int ClimbStairs(int n)
             {
                 int first = 1; 
@@ -20,7 +20,6 @@ namespace ClimbStairs
                 }
                 return second;
             }
-
             Console.WriteLine(ClimbStairs(5));
         }
     }

@@ -1,0 +1,5 @@
+C:\Users\natha\workspace\Algorithms\SymmetricTree\obj\Debug\net5.0\SymmetricTree.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\Algorithms\SymmetricTree\obj\Debug\net5.0\SymmetricTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\Algorithms\SymmetricTree\obj\Debug\net5.0\SymmetricTree.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\Algorithms\SymmetricTree\obj\Debug\net5.0\SymmetricTree.AssemblyInfo.cs
+C:\Users\natha\workspace\Algorithms\SymmetricTree\obj\Debug\net5.0\SymmetricTree.csproj.CoreCompileInputs.cache
