@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "MergeSortedArrays/1.0.0": {
+      "SingleNumber/1.0.0": {
         "runtime": {
-          "MergeSortedArrays.dll": {}
+          "SingleNumber.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MergeSortedArrays/1.0.0": {
+    "SingleNumber/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

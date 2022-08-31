@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natha\\workspace\\Algorithms\\MergeSortedArrays\\MergeSortedArrays.csproj",
-      "projectName": "MergeSortedArrays",
-      "projectPath": "C:\\Users\\natha\\workspace\\Algorithms\\MergeSortedArrays\\MergeSortedArrays.csproj",
+      "projectUniqueName": "C:\\Users\\natha\\workspace\\Algorithms\\SingleNumber\\SingleNumber.csproj",
+      "projectName": "SingleNumber",
+      "projectPath": "C:\\Users\\natha\\workspace\\Algorithms\\SingleNumber\\SingleNumber.csproj",
       "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natha\\workspace\\Algorithms\\MergeSortedArrays\\obj\\",
+      "outputPath": "C:\\Users\\natha\\workspace\\Algorithms\\SingleNumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\Algorithms\SingleNumber\obj\Debug\net5.0\SingleNumber.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\Algorithms\SingleNumber\obj\Debug\net5.0\SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\Algorithms\SingleNumber\obj\Debug\net5.0\SingleNumber.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\Algorithms\SingleNumber\obj\Debug\net5.0\SingleNumber.AssemblyInfo.cs
+C:\Users\natha\workspace\Algorithms\SingleNumber\obj\Debug\net5.0\SingleNumber.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\Algorithms\SingleNumber\bin\Debug\net5.0\SingleNumber.exe
+C:\Users\natha\workspace\Algorithms\SingleNumber\bin\Debug\net5.0\SingleNumber.deps.json
+C:\Users\natha\workspace\Algorithms\SingleNumber\bin\Debug\net5.0\SingleNumber.runtimeconfig.json
+C:\Users\natha\workspace\Algorithms\SingleNumber\bin\Debug\net5.0\SingleNumber.runtimeconfig.dev.json
+C:\Users\natha\workspace\Algorithms\SingleNumber\bin\Debug\net5.0\SingleNumber.dll
+C:\Users\natha\workspace\Algorithms\SingleNumber\bin\Debug\net5.0\ref\SingleNumber.dll
+C:\Users\natha\workspace\Algorithms\SingleNumber\bin\Debug\net5.0\SingleNumber.pdb
+C:\Users\natha\workspace\Algorithms\SingleNumber\obj\Debug\net5.0\SingleNumber.dll
+C:\Users\natha\workspace\Algorithms\SingleNumber\obj\Debug\net5.0\ref\SingleNumber.dll
+C:\Users\natha\workspace\Algorithms\SingleNumber\obj\Debug\net5.0\SingleNumber.pdb
+C:\Users\natha\workspace\Algorithms\SingleNumber\obj\Debug\net5.0\SingleNumber.genruntimeconfig.cache
