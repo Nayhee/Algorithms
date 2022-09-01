@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\Algorithms\MajorityElement\bin\Debug\net5.0\MajorityElement.exe
+C:\Users\natha\workspace\Algorithms\MajorityElement\bin\Debug\net5.0\MajorityElement.deps.json
+C:\Users\natha\workspace\Algorithms\MajorityElement\bin\Debug\net5.0\MajorityElement.runtimeconfig.json
+C:\Users\natha\workspace\Algorithms\MajorityElement\bin\Debug\net5.0\MajorityElement.runtimeconfig.dev.json
+C:\Users\natha\workspace\Algorithms\MajorityElement\bin\Debug\net5.0\MajorityElement.dll
+C:\Users\natha\workspace\Algorithms\MajorityElement\bin\Debug\net5.0\ref\MajorityElement.dll
+C:\Users\natha\workspace\Algorithms\MajorityElement\bin\Debug\net5.0\MajorityElement.pdb
+C:\Users\natha\workspace\Algorithms\MajorityElement\obj\Debug\net5.0\MajorityElement.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\Algorithms\MajorityElement\obj\Debug\net5.0\MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\Algorithms\MajorityElement\obj\Debug\net5.0\MajorityElement.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\Algorithms\MajorityElement\obj\Debug\net5.0\MajorityElement.AssemblyInfo.cs
+C:\Users\natha\workspace\Algorithms\MajorityElement\obj\Debug\net5.0\MajorityElement.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\Algorithms\MajorityElement\obj\Debug\net5.0\MajorityElement.dll
+C:\Users\natha\workspace\Algorithms\MajorityElement\obj\Debug\net5.0\ref\MajorityElement.dll
+C:\Users\natha\workspace\Algorithms\MajorityElement\obj\Debug\net5.0\MajorityElement.pdb
+C:\Users\natha\workspace\Algorithms\MajorityElement\obj\Debug\net5.0\MajorityElement.genruntimeconfig.cache
