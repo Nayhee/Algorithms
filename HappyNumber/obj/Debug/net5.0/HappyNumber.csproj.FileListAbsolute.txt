@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\Algorithms\HappyNumber\obj\Debug\net5.0\HappyNumber.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\Algorithms\HappyNumber\obj\Debug\net5.0\HappyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\Algorithms\HappyNumber\obj\Debug\net5.0\HappyNumber.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\Algorithms\HappyNumber\obj\Debug\net5.0\HappyNumber.AssemblyInfo.cs
+C:\Users\natha\workspace\Algorithms\HappyNumber\obj\Debug\net5.0\HappyNumber.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\Algorithms\HappyNumber\bin\Debug\net5.0\HappyNumber.exe
+C:\Users\natha\workspace\Algorithms\HappyNumber\bin\Debug\net5.0\HappyNumber.deps.json
+C:\Users\natha\workspace\Algorithms\HappyNumber\bin\Debug\net5.0\HappyNumber.runtimeconfig.json
+C:\Users\natha\workspace\Algorithms\HappyNumber\bin\Debug\net5.0\HappyNumber.runtimeconfig.dev.json
+C:\Users\natha\workspace\Algorithms\HappyNumber\bin\Debug\net5.0\HappyNumber.dll
+C:\Users\natha\workspace\Algorithms\HappyNumber\bin\Debug\net5.0\ref\HappyNumber.dll
+C:\Users\natha\workspace\Algorithms\HappyNumber\bin\Debug\net5.0\HappyNumber.pdb
+C:\Users\natha\workspace\Algorithms\HappyNumber\obj\Debug\net5.0\HappyNumber.dll
+C:\Users\natha\workspace\Algorithms\HappyNumber\obj\Debug\net5.0\ref\HappyNumber.dll
+C:\Users\natha\workspace\Algorithms\HappyNumber\obj\Debug\net5.0\HappyNumber.pdb
+C:\Users\natha\workspace\Algorithms\HappyNumber\obj\Debug\net5.0\HappyNumber.genruntimeconfig.cache
