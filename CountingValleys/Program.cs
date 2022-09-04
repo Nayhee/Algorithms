@@ -9,20 +9,20 @@ namespace CountingValleys
             int CountingValleys(int steps, string path)
             {
                 var valleys = 0;
-                var elevation = 0;
+                var location = 0;
                 for (var i = 0; i < steps; i++)
                 {
                     if (path[i] == 'D')
                     {
-                        elevation--;
+                        location--;
                     }
                     else
                     {
-                        if (elevation == -1)
+                        if (location == -1)
                         {
                             valleys++;
                         }
-                        elevation++;
+                        location++;
                     }
                 };
                 return valleys;
