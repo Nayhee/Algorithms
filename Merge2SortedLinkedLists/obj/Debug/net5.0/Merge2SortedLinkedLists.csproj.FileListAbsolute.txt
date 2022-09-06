@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\obj\Debug\net5.0\Merge2SortedLinkedLists.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\obj\Debug\net5.0\Merge2SortedLinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\obj\Debug\net5.0\Merge2SortedLinkedLists.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\obj\Debug\net5.0\Merge2SortedLinkedLists.AssemblyInfo.cs
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\obj\Debug\net5.0\Merge2SortedLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\bin\Debug\net5.0\Merge2SortedLinkedLists.exe
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\bin\Debug\net5.0\Merge2SortedLinkedLists.deps.json
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\bin\Debug\net5.0\Merge2SortedLinkedLists.runtimeconfig.json
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\bin\Debug\net5.0\Merge2SortedLinkedLists.runtimeconfig.dev.json
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\bin\Debug\net5.0\Merge2SortedLinkedLists.dll
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\bin\Debug\net5.0\ref\Merge2SortedLinkedLists.dll
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\bin\Debug\net5.0\Merge2SortedLinkedLists.pdb
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\obj\Debug\net5.0\Merge2SortedLinkedLists.dll
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\obj\Debug\net5.0\ref\Merge2SortedLinkedLists.dll
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\obj\Debug\net5.0\Merge2SortedLinkedLists.pdb
+C:\Users\natha\workspace\Algorithms\Merge2SortedLinkedLists\obj\Debug\net5.0\Merge2SortedLinkedLists.genruntimeconfig.cache
