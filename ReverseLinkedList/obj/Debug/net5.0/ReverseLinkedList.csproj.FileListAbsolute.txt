@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\obj\Debug\net5.0\ReverseLinkedList.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\obj\Debug\net5.0\ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\obj\Debug\net5.0\ReverseLinkedList.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\obj\Debug\net5.0\ReverseLinkedList.AssemblyInfo.cs
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\obj\Debug\net5.0\ReverseLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\bin\Debug\net5.0\ReverseLinkedList.exe
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\bin\Debug\net5.0\ReverseLinkedList.deps.json
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\bin\Debug\net5.0\ReverseLinkedList.runtimeconfig.json
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\bin\Debug\net5.0\ReverseLinkedList.runtimeconfig.dev.json
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\bin\Debug\net5.0\ReverseLinkedList.dll
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\bin\Debug\net5.0\ref\ReverseLinkedList.dll
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\bin\Debug\net5.0\ReverseLinkedList.pdb
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\obj\Debug\net5.0\ReverseLinkedList.dll
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\obj\Debug\net5.0\ref\ReverseLinkedList.dll
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\obj\Debug\net5.0\ReverseLinkedList.pdb
+C:\Users\natha\workspace\Algorithms\ReverseLinkedList\obj\Debug\net5.0\ReverseLinkedList.genruntimeconfig.cache
