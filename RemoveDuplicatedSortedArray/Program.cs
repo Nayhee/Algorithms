@@ -11,7 +11,6 @@ namespace RemoveDuplicatedSortedArray
             int[] RemoveDuplicates(int[] nums)
             {
                 Dictionary<int, int> dict = new Dictionary<int, int>();
-
                 List<int> numsList = nums.ToList();
 
                 for(int i = 0; i < nums.Length; i++)
@@ -28,11 +27,8 @@ namespace RemoveDuplicatedSortedArray
                 }
 
                 var listLength = numsList.Count;
-
                 int[] answer = numsList.ToArray();
-
                 return answer;
-
             }
 
             int[] nums = new int[3] { 1, 1, 2};
@@ -41,6 +37,7 @@ namespace RemoveDuplicatedSortedArray
             {
                 Console.WriteLine(i);
             }
+
         }
     }
 }
