@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\Algorithms\ReverseInteger\obj\Debug\net5.0\ReverseInteger.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\Algorithms\ReverseInteger\obj\Debug\net5.0\ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\Algorithms\ReverseInteger\obj\Debug\net5.0\ReverseInteger.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\Algorithms\ReverseInteger\obj\Debug\net5.0\ReverseInteger.AssemblyInfo.cs
+C:\Users\natha\workspace\Algorithms\ReverseInteger\obj\Debug\net5.0\ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\Algorithms\ReverseInteger\bin\Debug\net5.0\ReverseInteger.exe
+C:\Users\natha\workspace\Algorithms\ReverseInteger\bin\Debug\net5.0\ReverseInteger.deps.json
+C:\Users\natha\workspace\Algorithms\ReverseInteger\bin\Debug\net5.0\ReverseInteger.runtimeconfig.json
+C:\Users\natha\workspace\Algorithms\ReverseInteger\bin\Debug\net5.0\ReverseInteger.runtimeconfig.dev.json
+C:\Users\natha\workspace\Algorithms\ReverseInteger\bin\Debug\net5.0\ReverseInteger.dll
+C:\Users\natha\workspace\Algorithms\ReverseInteger\bin\Debug\net5.0\ref\ReverseInteger.dll
+C:\Users\natha\workspace\Algorithms\ReverseInteger\bin\Debug\net5.0\ReverseInteger.pdb
+C:\Users\natha\workspace\Algorithms\ReverseInteger\obj\Debug\net5.0\ReverseInteger.dll
+C:\Users\natha\workspace\Algorithms\ReverseInteger\obj\Debug\net5.0\ref\ReverseInteger.dll
+C:\Users\natha\workspace\Algorithms\ReverseInteger\obj\Debug\net5.0\ReverseInteger.pdb
+C:\Users\natha\workspace\Algorithms\ReverseInteger\obj\Debug\net5.0\ReverseInteger.genruntimeconfig.cache
