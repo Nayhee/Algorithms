@@ -23,23 +23,28 @@ namespace ReverseInteger
                 }
 
                 int a = stringInput.Length - 1;
-                string Reverse = "";
+                string Reversed = "";
                 
                 while(a >= 0)
                 {
-                    Reverse = Reverse + stringInput[a];
+                    Reversed = Reversed + stringInput[a];
                     a--;
                 }
 
                 if (isNegative)
                 {
-                    stringInput = "-" + stringInput;
+                    Reversed = "-" + Reversed;
                 }
 
-                int answer = int.Parse(stringInput);
+                var answer = int.Parse(Reversed);
+                if(answer > int.MaxValue)
+                {
+                    return 0;
+                }
                 return answer;
             }
-            int input = -321;
+
+            int input = -2147;
             Console.WriteLine(ReverseInt(input));
         }
     }
