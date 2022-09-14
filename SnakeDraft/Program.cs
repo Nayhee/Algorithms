@@ -7,37 +7,39 @@ namespace SnakeDraft
     {
         static void Main(string[] args)
         {
-            List<int> snakeDraftPicks(int draftSpot, int numTeams)
+            var draftSpot = 12;
+            var numTeams = 12;
+            var numRounds = 16;
+
+            snakeDraftPicks(draftSpot, numTeams, numRounds);
+        }
+
+        static void snakeDraftPicks(int draftSpot, int numTeams, int numRounds)
+        {
+            List<int> picks = new List<int>();
+
+            for (int round = 1; round <= numRounds; round++)
             {
-                var numRounds = 16;
+                int draftPick;
 
-                List<int> picks = new List<int>();
+                if (round % 2 == 0)
+                    draftPick = (round * numTeams) - draftSpot + 1;
 
-                for (int round = 1; round <= numRounds; round++)
-                {
-                    int draftPick;
+                else
+                    draftPick = ((round - 1) * numTeams) + draftSpot;
 
-                    if (round % 2 == 0)
-                    {
-                        draftPick = (round * numTeams) - draftSpot + 1;
-                    }
-                    else
-                    {
-                        draftPick = ((round - 1) * numTeams) + draftSpot;
-                    }
-
-                    picks.Add(draftPick);
-
-                }
-                return picks;
+                picks.Add(draftPick);
             }
 
-            var ds = 1;
-            var nt = 10;
-            var answer = snakeDraftPicks(ds, nt);
-            foreach (int pick in answer)
+            Console.WriteLine("----------------");
+            Console.WriteLine("Draft Picks");
+            Console.WriteLine("----------------");
+
+            for (int i = 0; i < picks.Count; i++)
             {
-                Console.WriteLine(pick);
+                var pick = picks[i];
+                var j = i + 1;
+                Console.WriteLine($"{j}) {pick}");
             }
         }
     }
