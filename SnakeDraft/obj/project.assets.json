@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natha\\workspace\\VS\\Algorithms\\SnakeDraft\\SnakeDraft.csproj",
+      "projectUniqueName": "C:\\Users\\natha\\workspace\\Algorithms\\SnakeDraft\\SnakeDraft.csproj",
       "projectName": "SnakeDraft",
-      "projectPath": "C:\\Users\\natha\\workspace\\VS\\Algorithms\\SnakeDraft\\SnakeDraft.csproj",
+      "projectPath": "C:\\Users\\natha\\workspace\\Algorithms\\SnakeDraft\\SnakeDraft.csproj",
       "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natha\\workspace\\VS\\Algorithms\\SnakeDraft\\obj\\",
+      "outputPath": "C:\\Users\\natha\\workspace\\Algorithms\\SnakeDraft\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",

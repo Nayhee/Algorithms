@@ -1,44 +1,57 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace BinaryTreeTraversal
+// Non-recursive = Binary Tree InOrder Traversal
+
+public class Node
 {
-    class Program
+    public int value;
+    public Node left, right;
+
+    public Node(int item)
     {
-        static void Main(string[] args)
+        value = item;
+        left = right = null;
+    }
+}
+
+public class BinaryTree
+{
+    public Node root;
+    public virtual void InOrderTraversal()
+    {
+        if (root == null)
         {
-            List<int> InorderTraversal(TreeNode root)
+            return;
+        }
+
+        Stack<Node> s = new Stack<Node>();
+        Node current = root;
+
+        //Traverse the tree
+        while (current != null || s.Count > 0)
+        {
+            // Reach the left most Node of the curr Node 
+            while (current != null)
             {
-                List<int> answer = new List<int>();
-                Stack<int> myStack = new Stack<int>();
-                while(root != null || myStack.Count != 0)
-                {
-                    while(root != null)
-                    {
-                        myStack.Push(root.val);
-                        root = root.left;
-                    };
-                    root.val = myStack.Pop();
-                    answer.Add(root.val);
-                    root = root.right;
-                }
-                return answer;
+                s.Push(current);
+                current = current.left;
             }
+            // Current must be NULL at this point 
+            current = s.Pop();
+            Console.Write(current.value + " ");
+            current = current.right;
         }
     }
 
-
-
-    public class TreeNode
+    public static void Main(string[] args)
     {
-        public int val;
-        public TreeNode left;
-        public TreeNode right;
-        public TreeNode(int val = 0, TreeNode left=null, TreeNode right=null)
-        {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
+        BinaryTree tree = new BinaryTree();
+        tree.root = new Node(1);
+        tree.root.left = new Node(2);
+        tree.root.right = new Node(3);
+        tree.root.left.left = new Node(4);
+        tree.root.left.right = new Node(5);
+        tree.InOrderTraversal();
     }
 }

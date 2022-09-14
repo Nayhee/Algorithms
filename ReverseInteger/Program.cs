@@ -27,7 +27,7 @@ namespace ReverseInteger
                 
                 while(a >= 0)
                 {
-                    Reversed = Reversed + stringInput[a];
+                    Reversed += stringInput[a];
                     a--;
                 }
 

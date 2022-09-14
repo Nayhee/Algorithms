@@ -36,7 +36,6 @@ namespace FindMedianSortedArrays
                     double answer = ((double)topValue + (double)bottomValue) / 2;
                     return answer;
                 }
-
                 else
                 {
                     return allNums[medianSpotInt];

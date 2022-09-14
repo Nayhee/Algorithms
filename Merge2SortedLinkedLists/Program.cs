@@ -45,6 +45,8 @@ namespace Merge2SortedLinkedLists
                 return finalHead;
             }
 
+            
+
             ListNode node1 = new ListNode(3);
             ListNode node2 = new ListNode(2);
             ListNode node3 = new ListNode(1);
