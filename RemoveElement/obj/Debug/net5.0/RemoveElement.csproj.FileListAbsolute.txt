@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\Algorithms\RemoveElement\obj\Debug\net5.0\RemoveElement.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\Algorithms\RemoveElement\obj\Debug\net5.0\RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\Algorithms\RemoveElement\obj\Debug\net5.0\RemoveElement.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\Algorithms\RemoveElement\obj\Debug\net5.0\RemoveElement.AssemblyInfo.cs
+C:\Users\natha\workspace\Algorithms\RemoveElement\obj\Debug\net5.0\RemoveElement.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\Algorithms\RemoveElement\bin\Debug\net5.0\RemoveElement.exe
+C:\Users\natha\workspace\Algorithms\RemoveElement\bin\Debug\net5.0\RemoveElement.deps.json
+C:\Users\natha\workspace\Algorithms\RemoveElement\bin\Debug\net5.0\RemoveElement.runtimeconfig.json
+C:\Users\natha\workspace\Algorithms\RemoveElement\bin\Debug\net5.0\RemoveElement.runtimeconfig.dev.json
+C:\Users\natha\workspace\Algorithms\RemoveElement\bin\Debug\net5.0\RemoveElement.dll
+C:\Users\natha\workspace\Algorithms\RemoveElement\bin\Debug\net5.0\ref\RemoveElement.dll
+C:\Users\natha\workspace\Algorithms\RemoveElement\bin\Debug\net5.0\RemoveElement.pdb
+C:\Users\natha\workspace\Algorithms\RemoveElement\obj\Debug\net5.0\RemoveElement.dll
+C:\Users\natha\workspace\Algorithms\RemoveElement\obj\Debug\net5.0\ref\RemoveElement.dll
+C:\Users\natha\workspace\Algorithms\RemoveElement\obj\Debug\net5.0\RemoveElement.pdb
+C:\Users\natha\workspace\Algorithms\RemoveElement\obj\Debug\net5.0\RemoveElement.genruntimeconfig.cache
