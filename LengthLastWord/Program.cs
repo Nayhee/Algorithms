@@ -11,22 +11,23 @@ namespace LengthLastWord
             int LengthLastWord(string s)
             {
                 string[] words = s.Split(' ');
+                if (words.Length == 1) return words[0].Length;
 
                 int answer = 0;
                 int lastIndex = words.Length-1;
 
-                while(answer == 0 && lastIndex > 0)
+                while(answer == 0)
                 {
                     var currentWord = words[lastIndex];
-                    if (!currentWord.Contains(" "))
+                    if (!currentWord.StartsWith(" ") && !currentWord.EndsWith(" "))
                     {
-                        answer = currentWord.Length;
+                        answer = currentWord.Trim().Length;
                     }
                     lastIndex--;
                 }
                 return answer;
             }
-            string s = "Hello World";
+            string s = "day";
             Console.WriteLine(LengthLastWord(s));
         }
     }
