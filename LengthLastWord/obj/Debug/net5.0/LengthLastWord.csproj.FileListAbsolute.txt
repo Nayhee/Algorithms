@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\Algorithms\LengthLastWord\obj\Debug\net5.0\LengthLastWord.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\Algorithms\LengthLastWord\obj\Debug\net5.0\LengthLastWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\Algorithms\LengthLastWord\obj\Debug\net5.0\LengthLastWord.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\Algorithms\LengthLastWord\obj\Debug\net5.0\LengthLastWord.AssemblyInfo.cs
+C:\Users\natha\workspace\Algorithms\LengthLastWord\obj\Debug\net5.0\LengthLastWord.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\Algorithms\LengthLastWord\bin\Debug\net5.0\LengthLastWord.exe
+C:\Users\natha\workspace\Algorithms\LengthLastWord\bin\Debug\net5.0\LengthLastWord.deps.json
+C:\Users\natha\workspace\Algorithms\LengthLastWord\bin\Debug\net5.0\LengthLastWord.runtimeconfig.json
+C:\Users\natha\workspace\Algorithms\LengthLastWord\bin\Debug\net5.0\LengthLastWord.runtimeconfig.dev.json
+C:\Users\natha\workspace\Algorithms\LengthLastWord\bin\Debug\net5.0\LengthLastWord.dll
+C:\Users\natha\workspace\Algorithms\LengthLastWord\bin\Debug\net5.0\ref\LengthLastWord.dll
+C:\Users\natha\workspace\Algorithms\LengthLastWord\bin\Debug\net5.0\LengthLastWord.pdb
+C:\Users\natha\workspace\Algorithms\LengthLastWord\obj\Debug\net5.0\LengthLastWord.dll
+C:\Users\natha\workspace\Algorithms\LengthLastWord\obj\Debug\net5.0\ref\LengthLastWord.dll
+C:\Users\natha\workspace\Algorithms\LengthLastWord\obj\Debug\net5.0\LengthLastWord.pdb
+C:\Users\natha\workspace\Algorithms\LengthLastWord\obj\Debug\net5.0\LengthLastWord.genruntimeconfig.cache
